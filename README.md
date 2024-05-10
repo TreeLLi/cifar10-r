@@ -1,2 +1,2 @@
-# cifar10-r
-CIAFR10-R(endition): a downsampled variant of ImageNet-R(endition)
+# CIFAR10-R(endition)
+CIAFR10-R is a downsampled variant of [ImageNet-R(endition)](https://github.com/hendrycks/imagenet-r). The images are resized to CIFAR10-like size, 32x32. It therefore contains, compared to CIFAR10, two types of distribution shifts: CIFAR10->ImageNet and ImageNet->ImageNet-R.
